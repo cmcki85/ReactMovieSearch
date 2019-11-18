@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Fluff Removed!
+          Movie Search: an IMDB Clone
         </p>
       </header>
     </div>
